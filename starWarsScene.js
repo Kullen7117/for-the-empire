@@ -13,7 +13,7 @@ function seeRebelsEscape(rebels) {
   var i = 0
 
   while (rebels[i] && rebels[i]['plotArmor']) {
-    escapedRebelCalls.push('Oh no! They\re getting away!')
+    escapedRebelCalls.push('Oh no! They\'re getting away!')
     i++
   } 
 
